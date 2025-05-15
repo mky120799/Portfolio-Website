@@ -31,25 +31,28 @@ An AI-powered tool using OpenAI’s GPT-3.5 for personalized Netflix recommendat
 ### 🧾 HRMS & BankAssist (Enterprise Projects)
 Internal tools built for HR and ticketing management using React, Node.js, Express.js, and MongoDB. Features include role-based access, dashboards, real-time updates, and cloud deployment.
 
-## 📂 Folder Structure
+## 📁 Folder Structure
 
+```bash
 Portfolio-Website/
 │
 ├── index.html
-├── css/
-├── js/
-├── images/
-├── scss/
-├── lib/ (3rd party JS libraries)
-└── README.md
+├── css/         # Stylesheets
+├── js/          # JavaScript files
+├── images/      # Project images & assets
+├── scss/        # Optional Sass files
+├── lib/         # 3rd party JS libraries
+└── README.md    # Project documentation
+```
 
 
-📫 Connect with Me
 
-🔗 LinkedIn
-💻 GitHub
-📧 Email: mky120799@gmail.com
+## 📫 Connect with Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yadav11)
+- 💻 [GitHub](https://github.com/mky120799)
+- 📧 Email: [mky120799@gmail.com](mailto:mky120799@gmail.com)
 
 
-Feel free to fork this repo or reach out if you have any suggestions!
+# Feel free to fork this repo or reach out if you have any suggestions!
 
