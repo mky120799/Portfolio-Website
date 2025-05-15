@@ -10,7 +10,6 @@ Welcome to my personal portfolio! This website showcases my journey as a Full St
 
 - Responsive design across devices
 - Animated number counters, scroll effects, and dynamic content
-- Showcases major projects with GitHub links
 - Smooth navigation and clean UI/UX
 - Built using HTML, CSS, JavaScript, Bootstrap, jQuery, and AOS
 
@@ -20,16 +19,6 @@ Welcome to my personal portfolio! This website showcases my journey as a Full St
 - **Animations & Plugins:** AOS (Animate On Scroll), Owl Carousel, AnimateNumber, Waypoints, Magnific Popup
 - **Icons & Fonts:** Font Awesome, Google Fonts
 
-## 🚀 Projects Highlighted
-
-### 🎬 Entertainment App
-A full-stack application that uses the TMDB API to help users explore movies/TV shows with search, authentication, and bookmarking features.
-
-### 🤖 Movies-GPT
-An AI-powered tool using OpenAI’s GPT-3.5 for personalized Netflix recommendations via natural language interaction.
-
-### 🧾 HRMS & BankAssist (Enterprise Projects)
-Internal tools built for HR and ticketing management using React, Node.js, Express.js, and MongoDB. Features include role-based access, dashboards, real-time updates, and cloud deployment.
 
 ## 📁 Folder Structure
 
